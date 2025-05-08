@@ -1,1 +1,1 @@
-### This is a folder where all checkpoints for all models are saved for every epoch during training.
+### This is a folder where all checkpoints for all epochs are saved during training.
