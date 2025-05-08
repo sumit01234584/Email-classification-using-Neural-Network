@@ -35,7 +35,7 @@
 - inference.py: script to test the performance of any checkpoints
 
 #### After training model for 50 epochs, we got the following performance on testing dataset at epoch 2, which was the best among all epochs:
-| Accuracy | 98.80 \\% |
+| Accuracy | 98.80 \% |
 | :---: | :---: | 
 | Precision | 97.64 \\% |
 | :---: | :---: | 
